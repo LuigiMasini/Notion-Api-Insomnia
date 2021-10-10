@@ -7,7 +7,7 @@ Added a dummy request to retrieve OAuth token for Notion's
 [public integretions](https://developers.notion.com/docs/authorization#authorizing-public-integrations).
 
 Added the environment:
-'''JSON
+```JSON
 {
   "notion_api_version": "2021-08-16",
   "database_id": "",
@@ -20,10 +20,10 @@ Added the environment:
   "oauth_secret": "",
   "oauth_redirect_uri": ""
 }
-'''
+```
 
 The variable `access_token` uses the Insomia plugin [insomnia-plugin-accesstoken](https://insomnia.rest/plugins/insomnia-plugin-accesstoken) to reference the OAuth access token.
-Every other request then uses bearer authentication with this var as the token.
+Every other request then uses bearer authentication with this var as the token. You can just set it to your token if you don't need public integration.
 
 The varables ending in _id are notions uuid.
 
