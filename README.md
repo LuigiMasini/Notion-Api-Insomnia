@@ -29,4 +29,15 @@ The varables ending in _id are notions uuid.
 
 Will probably add documentation in the future.
 
-Pull requests and issues are welcome!
+Pull requests and issues are welcome:
+
+- import Notion_Api_Insomnia.json in insomnia 
+- modify
+- export as `Notion_Api_Insomnia_export.json`
+- run 
+
+```shell
+python -m json.tool Notion_Api_Insomnia_export.json > Notion_Api_Insomnia.json
+```
+
+- then git add, commit ecc

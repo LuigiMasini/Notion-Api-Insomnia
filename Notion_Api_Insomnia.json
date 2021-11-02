@@ -1,5 +1,5 @@
 {
-    "__export_date": "2021-10-12T12:50:19.861Z",
+    "__export_date": "2021-11-02T11:20:16.504Z",
     "__export_format": 4,
     "__export_source": "insomnia.desktop.app:v2021.5.3",
     "_type": "export",
@@ -361,10 +361,10 @@
             },
             "body": {
                 "mimeType": "application/json",
-                "text": "{\n\t\"parent\": {\n\t\t\"database_id\": \"{{ _.database_id }}\"\n\t},\n\t\"properties\": {\n\t\t\"Type\": {\n\t\t\t\"select\": {\n\t\t\t\t\"id\": \"f96d0d0a-5564-4a20-ab15-5f040d49759e\",\n\t\t\t\t\"name\": \"Article\",\n\t\t\t\t\"color\": \"default\"\n\t\t\t}\n\t\t},\n\t\t\"Score /5\": {\n\t\t\t\"select\": {\n\t\t\t\t\"id\": \"5c944de7-3f4b-4567-b3a1-fa2c71c540b6\",\n\t\t\t\t\"name\": \"\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\",\n\t\t\t\t\"color\": \"default\"\n\t\t\t}\n\t\t},\n\t\t\"Name\": {\n\t\t\t\"title\": [\n\t\t\t\t{\n\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\"content\": \"New Media Article\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t]\n\t\t},\n\t\t\"Status\": {\n\t\t\t\"select\": {\n\t\t\t\t\"id\": \"8c4a056e-6709-4dd1-ba58-d34d9480855a\",\n\t\t\t\t\"name\": \"Ready to Start\",\n\t\t\t\t\"color\": \"yellow\"\n\t\t\t}\n\t\t},\n\t\t\"Publisher\": {\n\t\t\t\"select\": {\n\t\t\t\t\"id\": \"01f82d08-aa1f-4884-a4e0-3bc32f909ec4\",\n\t\t\t\t\"name\": \"The Atlantic\",\n\t\t\t\t\"color\": \"red\"\n\t\t\t}\n\t\t},\n\t\t\"Publishing/Release Date\": {\n\t\t\t\"date\": {\n\t\t\t\t\"start\": \"2020-12-08T12:00:00Z\",\n\t\t\t\t\"end\": null\n\t\t\t}\n\t\t},\n\t\t\"Link\": {\n\t\t\t\"url\": \"https://www.nytimes.com/2018/10/21/opinion/who-will-teach-silicon-valley-to-be-ethical.html\"\n\t\t},\n\t\t\"Summary\": {\n\t\t\t\"text\": [\n\t\t\t\t{\n\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\"content\": \"Some think chief ethics officers could help technology companies navigate political and social questions.\",\n\t\t\t\t\t\t\"link\": null\n\t\t\t\t\t},\n\t\t\t\t\t\"annotations\": {\n\t\t\t\t\t\t\"bold\": false,\n\t\t\t\t\t\t\"italic\": false,\n\t\t\t\t\t\t\"strikethrough\": false,\n\t\t\t\t\t\t\"underline\": false,\n\t\t\t\t\t\t\"code\": false,\n\t\t\t\t\t\t\"color\": \"default\"\n\t\t\t\t\t},\n\t\t\t\t\t\"plain_text\": \"Some think chief ethics officers could help technology companies navigate political and social questions.\",\n\t\t\t\t\t\"href\": null\n\t\t\t\t}\n\t\t\t]\n\t\t},\n\t\t\"Read\": {\n\t\t\t\"checkbox\": false\n\t\t}\n\t},\n\t\"children\": [\n\t\t{\n\t\t\t\"object\": \"block\",\n\t\t\t\"type\": \"heading_2\",\n\t\t\t\"heading_2\": {\n\t\t\t\t\"text\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\t\"content\": \"Lacinato kale\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"object\": \"block\",\n\t\t\t\"type\": \"paragraph\",\n\t\t\t\"paragraph\": {\n\t\t\t\t\"text\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\t\"content\": \"Lacinato kale is a variety of kale with a long tradition in Italian cuisine, especially that of Tuscany. It is also known as Tuscan kale, Italian kale, dinosaur kale, kale, flat back kale, palm tree kale, or black Tuscan palm.\",\n\t\t\t\t\t\t\t\"link\": {\n\t\t\t\t\t\t\t\t\"url\": \"https://en.wikipedia.org/wiki/Lacinato_kale\"\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t}\n\t]\n}"
+                "text": "{\n\t\"parent\": {\n\t\t\"database_id\": \"{{ _.database_id }}\"\n\t},\n\t\"properties\": {\n\t\t\"Name\": {\n\t\t\t\"title\": [\n\t\t\t\t{\n\t\t\t\t\t\"type\":\"text\",\n\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\"content\": \"New Media Article\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t]\n\t\t},\n\t\t\"Tags\": {\n\t\t\t\"multi_select\":[\n\t\t\t\t{\n\t\t\t\t\t\"name\":\"dfjk\"\t\n\t\t\t\t}\n\t\t\t]\n\t\t}\n\t},\n\t\"children\": [\n\t\t{\n\t\t\t\"object\": \"block\",\n\t\t\t\"type\": \"heading_2\",\n\t\t\t\"heading_2\": {\n\t\t\t\t\"text\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\t\"content\": \"Lacinato kale\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"object\": \"block\",\n\t\t\t\"type\": \"paragraph\",\n\t\t\t\"paragraph\": {\n\t\t\t\t\"text\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\t\"content\": \"Lacinato kale is a variety of kale with a long tradition in Italian cuisine, especially that of Tuscany. It is also known as Tuscan kale, Italian kale, dinosaur kale, kale, flat back kale, palm tree kale, or black Tuscan palm.\",\n\t\t\t\t\t\t\t\"link\": {\n\t\t\t\t\t\t\t\t\"url\": \"https://en.wikipedia.org/wiki/Lacinato_kale\"\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t}\n\t]\n}"
             },
             "created": 1633903955342,
-            "description": "",
+            "description": "docs says that in body parent.type can be either page_id or database_id but if you try you get api error and some hints on how to fix your json\n\nif you create a (multi) select item, color is ignored",
             "headers": [
                 {
                     "id": "pair_45039468f84c43edb3dc9ba38c699886",
@@ -380,7 +380,7 @@
             "isPrivate": false,
             "metaSortKey": -1633903955342,
             "method": "POST",
-            "modified": 1634041777190,
+            "modified": 1635783959071,
             "name": "Create a Page",
             "parameters": [],
             "parentId": "fld_7583df7b4b284a169859f5b87f76aa2d",
@@ -620,10 +620,10 @@
             },
             "body": {
                 "mimeType": "application/json",
-                "text": "{\n\t\"children\": [\n\t\t{\n\t\t\t\"object\": \"block\",\n\t\t\t\"type\": \"heading_2\",\n\t\t\t\"heading_2\": {\n\t\t\t\t\"text\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\t\"content\": \"Lacinato kale\"\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t},\n\t\t{\n\t\t\t\"object\": \"block\",\n\t\t\t\"type\": \"paragraph\",\n\t\t\t\"paragraph\": {\n\t\t\t\t\"text\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"type\": \"text\",\n\t\t\t\t\t\t\"text\": {\n\t\t\t\t\t\t\t\"content\": \"Lacinato kale is a variety of kale with a long tradition in Italian cuisine, especially that of Tuscany. It is also known as Tuscan kale, Italian kale, dinosaur kale, kale, flat back kale, palm tree kale, or black Tuscan palm.\",\n\t\t\t\t\t\t\t\"link\": {\n\t\t\t\t\t\t\t\t\"url\": \"https://en.wikipedia.org/wiki/Lacinato_kale\"\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t}\n\t]\n}"
+                "text": "{\n\t\"children\": [\n\t\t{\n\t\t\t\"object\":\"block\",\n\t\t\t\"type\": \"paragraph\",\n\t\t\t\"paragraph\": {\n\t\t\t\t\"text\":[{\n\t\t\t\t\t\"type\":\"text\",\n\t\t\t\t\t\"text\":{\n\t\t\t\t\t\t\"content\":\"sdfghjkl.-\"\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t]}\n\t\t}\n\t]\n}"
             },
             "created": 1633903955330,
-            "description": "",
+            "description": "Types their backend says are supported:\n\n- heading_1\n- heading_2\n- heading_3\n- embed\n- bookmark\n- image\n- video\n- pdf\n- file\n- audio\n- code\n- equation\n- divider\n- breadcrumb\n- table_of_contents\n- paragraph\n- bulleted_list_item\n- numbered_list_item\n- quote\n- to_do\n- toggle\n- callout\n\nBut docs says:\n- paragraph\n- bulleted_list_item\n- numbered_list_item\n- toggle\n- to_do\n- quote\n- callout\n- child_page\n- child_database\n- unsupported \n\nbut few lines later says:\n\n- paragraph\n- heading_1\n- heading_2\n- heading_3\n- bulleted_list_item\n- numbered_list_item\n- to_do\n- toggle\n- child_page\n- child_database\n- embed\n- image\n- video\n- file\n- pdf\n- bookmark\n- unsupported\n\nif you try with \n```JSON\n{\n\t\"children\": [\n\t\t{\n\t\t\t\"type\": \"child_page\",\n\t\t\t\"child_page\": {\n\t\t\t\t\"title\":\"hohoho\"\n\t\t\t}\n\t\t}\n\t]\n}\n```\nas specified in the [docs](https://developers.notion.com/reference/block#child-page-blocks), you will get an error and a list with supported types",
             "headers": [
                 {
                     "id": "pair_f0edb3bda6f84bfe975ca4cac704135b",
@@ -639,7 +639,7 @@
             "isPrivate": false,
             "metaSortKey": -1633903955330,
             "method": "PATCH",
-            "modified": 1633905369473,
+            "modified": 1635783000060,
             "name": "Append block children",
             "parameters": [],
             "parentId": "fld_aee8f27fa98d40babf1347b7feb9c29f",
@@ -695,7 +695,7 @@
             },
             "body": {
                 "mimeType": "application/json",
-                "text": "{\n\t\"query\": \"targa\",\n\t\"sort\": {\n\t\t\"direction\": \"ascending\",\n\t\t\"timestamp\": \"last_edited_time\"\n\t}\n}"
+                "text": "{\n\t\"query\": \"paage\",\n\t\"sort\": {\n\t\t\"direction\": \"ascending\",\n\t\t\"timestamp\": \"last_edited_time\"\n\t}\n}"
             },
             "created": 1633903955319,
             "description": "",
@@ -714,7 +714,7 @@
             "isPrivate": false,
             "metaSortKey": -1633903955319,
             "method": "POST",
-            "modified": 1633907867062,
+            "modified": 1634766295777,
             "name": "Search",
             "parameters": [],
             "parentId": "fld_cb3dc1dcd9ce4c539310a7fd40d59d4e",
@@ -777,7 +777,7 @@
             "color": null,
             "created": 1583174451533,
             "data": {
-                "access_token": "{% token 'req_b4f6a2fe7b41494fa2d57131513342b5', true, false, false %}",
+                "access_token": "{% token 'req_b4f6a2fe7b41494fa2d57131513342b5', true, true, false %}",
                 "bearer_prefix": "Bearer",
                 "block_id": "",
                 "client_id": "",
@@ -806,7 +806,7 @@
             },
             "isPrivate": false,
             "metaSortKey": 1583174451533,
-            "modified": 1634041419459,
+            "modified": 1634764070887,
             "name": "Base Environment",
             "parentId": "wrk_e0bf83203c7845f291aa5dddccbf47a3"
         },
@@ -815,7 +815,7 @@
             "_type": "cookie_jar",
             "cookies": [],
             "created": 1583174451539,
-            "modified": 1633907578890,
+            "modified": 1635783961811,
             "name": "Default Jar",
             "parentId": "wrk_e0bf83203c7845f291aa5dddccbf47a3"
         },
